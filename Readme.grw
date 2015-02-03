@@ -1,0 +1,10 @@
+G. R. (Fred) Walter, July 1992
+ - This code is based on curs13-2.zoo (found on ftp-os2.nmsu.edu).
+   Go get the original if you need docs/etc.
+ - I ported this code to OS/2 2.0 using Watcom C/386 9.0.
+ - I had to fix prntscan.c to properly use stdargs (vprintf and vscanf)
+   so Watcom C would produce working code. I also had to modify the
+   corresponding function prototypes in curses.h
+ - I modified initscr.c to set LINES properly, and also needed to
+   modify cursesio.c.
+ - I had to write getch() and kbhit() (Watcom C/386 9.0's are broken)

@@ -1,0 +1,456 @@
+wcl386 attrib.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 attrib.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+attrib.c: 121 lines, included 402, 0 warnings, 0 errors
+Code size: 145
+wcl386 beep.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 beep.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+beep.c: 44 lines, included 402, 0 warnings, 0 errors
+Code size: 97
+wcl386 border.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 border.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+border.c: 68 lines, included 402, 0 warnings, 0 errors
+Code size: 99
+wcl386 boxes.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 boxes.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+boxes.c: 133 lines, included 402, 0 warnings, 0 errors
+.Code size: 992
+wcl386 charadd.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 charadd.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+charadd.c: 246 lines, included 402, 0 warnings, 0 errors
+.Code size: 936
+wcl386 chardel.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 chardel.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+chardel.c: 91 lines, included 402, 0 warnings, 0 errors
+Code size: 254
+wcl386 charget.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 charget.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+charget.c: 259 lines, included 447, 0 warnings, 0 errors
+.Code size: 742
+wcl386 charins.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 charins.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+charins.c: 171 lines, included 402, 0 warnings, 0 errors
+.Code size: 480
+wcl386 charpick.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 charpick.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+charpick.c: 69 lines, included 402, 0 warnings, 0 errors
+Code size: 178
+wcl386 clrtobot.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 clrtobot.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+clrtobot.c: 106 lines, included 402, 0 warnings, 0 errors
+Code size: 398
+wcl386 clrtoeol.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 clrtoeol.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+clrtoeol.c: 103 lines, included 402, 0 warnings, 0 errors
+Code size: 362
+wcl386 endwin.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 endwin.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+endwin.c: 37 lines, included 402, 0 warnings, 0 errors
+Code size: 65
+wcl386 initscr.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 initscr.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+initscr.c: 59 lines, included 402, 0 warnings, 0 errors
+Code size: 200
+wcl386 linedel.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 linedel.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+linedel.c: 94 lines, included 402, 0 warnings, 0 errors
+Code size: 242
+wcl386 lineins.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 lineins.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+lineins.c: 90 lines, included 402, 0 warnings, 0 errors
+.Code size: 242
+wcl386 longname.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 longname.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+longname.c: 29 lines, included 402, 0 warnings, 0 errors
+Code size: 6
+wcl386 move.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 move.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+move.c: 46 lines, included 402, 0 warnings, 0 errors
+.Code size: 79
+wcl386 mvcursor.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 mvcursor.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+mvcursor.c: 38 lines, included 402, 0 warnings, 0 errors
+Code size: 54
+wcl386 newwin.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 newwin.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+newwin.c: 192 lines, included 570, 0 warnings, 0 errors
+...Code size: 883
+wcl386 options.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 options.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+options.c: 135 lines, included 402, 0 warnings, 0 errors
+Code size: 123
+wcl386 overlay.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 overlay.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+overlay.c: 147 lines, included 402, 0 warnings, 0 errors
+Code size: 582
+wcl386 prntscan.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 prntscan.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+prntscan.c: 215 lines, included 432, 0 warnings, 0 errors
+.Code size: 730
+wcl386 refresh.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 refresh.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+refresh.c: 106 lines, included 402, 0 warnings, 0 errors
+Code size: 508
+wcl386 scrreg.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 scrreg.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+scrreg.c: 58 lines, included 402, 0 warnings, 0 errors
+Code size: 74
+wcl386 setmode.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 setmode.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+setmode.c: 94 lines, included 402, 0 warnings, 0 errors
+Code size: 131
+wcl386 setterm.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 setterm.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+setterm.c: 104 lines, included 402, 0 warnings, 0 errors
+Code size: 94
+wcl386 stradd.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 stradd.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+stradd.c: 82 lines, included 402, 0 warnings, 0 errors
+Code size: 197
+wcl386 strget.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 strget.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+strget.c: 186 lines, included 402, 0 warnings, 0 errors
+.Code size: 624
+wcl386 tabsize.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 tabsize.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+tabsize.c: 50 lines, included 402, 0 warnings, 0 errors
+Code size: 40
+wcl386 termmisc.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 termmisc.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+termmisc.c: 113 lines, included 402, 0 warnings, 0 errors
+Code size: 122
+wcl386 unctrl.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 unctrl.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+unctrl.c: 55 lines, included 402, 0 warnings, 0 errors
+Code size: 71
+wcl386 update.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 update.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+update.c: 247 lines, included 402, 0 warnings, 0 errors
+.Code size: 1019
+wcl386 winclear.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 winclear.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+winclear.c: 42 lines, included 402, 0 warnings, 0 errors
+Code size: 36
+wcl386 windel.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 windel.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+windel.c: 41 lines, included 402, 0 warnings, 0 errors
+Code size: 78
+wcl386 winerase.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 winerase.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+winerase.c: 58 lines, included 402, 0 warnings, 0 errors
+Code size: 142
+wcl386 winmove.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 winmove.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+winmove.c: 36 lines, included 402, 0 warnings, 0 errors
+Code size: 57
+wcl386 winscrol.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 winscrol.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+winscrol.c: 56 lines, included 402, 0 warnings, 0 errors
+Code size: 227
+wcl386 wintouch.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 wintouch.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+wintouch.c: 41 lines, included 402, 0 warnings, 0 errors
+Code size: 55
+wcl386 cursesio.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 cursesio.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+cursesio.c: 347 lines, included 14900, 0 warnings, 0 errors
+.Code size: 1180
+wcl386 getch.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 getch.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+getch.c: 46 lines, included 14395, 0 warnings, 0 errors
+Code size: 203
+wcl386 kbhit.c -omaxet -zp4 -4r -fpi87 -i=. -c
+WATCOM C 386 Compile and Link Utility Version 9.01
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+       wcc386 kbhit.c  -omaxet -zp4 -4r -fpi87 -i=.
+Maximum WCGMEMORY=16384
+WATCOM C 386 Optimizing Compiler /2 Version 9.01c
+Copyright by WATCOM Systems Inc. 1984, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+kbhit.c: 38 lines, included 14395, 0 warnings, 0 errors
+Code size: 146
+wlib -p=64 -c curses.lib @c:\tmp\mk00DC.aaa
+WATCOM Library Manager Version 2.4
+Copyright by WATCOM Systems Inc. 1988, 1992.  All rights reserved.
+WATCOM is a trademark of WATCOM Systems Inc.
+Warning! Could not open library 'curses.lib' : will be created.
